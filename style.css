@@ -10,8 +10,9 @@
     height: 40px;
     font-size: large;
     background-color: black;
+    justify-content: center;
+    font-size: small;
 
-    /* padding: 40px; */
 }
 li{
     display: inline;
@@ -43,3 +44,7 @@ p a{
 .para {
     font-size: 30px;
 }
+h2{
+    font-size: 55px;
+    text-align: center;
+    color:black
