@@ -10,9 +10,15 @@
     height: 40px;
     font-size: large;
     background-color: black;
+<<<<<<< HEAD
     padding: 10px;
     justify-content: center;
     
+=======
+    justify-content: center;
+    font-size: small;
+
+>>>>>>> 7ce6108a60f9d0ad9103928f5b099623443f26fa
 }
 li{
     display: inline;
@@ -43,6 +49,7 @@ p a{
 .first {
     font-size: 30px;
 }
+<<<<<<< HEAD
 #second div{
 /* text-align: center; */
 font-size: larger;
@@ -111,3 +118,9 @@ font-size: 30px;
 .maindivlower{
 display: flex;
 }
+=======
+h2{
+    font-size: 55px;
+    text-align: center;
+    color:black
+>>>>>>> 7ce6108a60f9d0ad9103928f5b099623443f26fa
