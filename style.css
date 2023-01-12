@@ -6,31 +6,31 @@
 .navbar{
     display: flex;
     border: 3px solid black;
-    width: 1366px;
+    width: 1302px;
     height: 40px;
     font-size: large;
     background-color: black;
-
-    /* padding: 40px; */
+    padding: 10px;
+    justify-content: center;
+    
 }
 li{
     display: inline;
     padding: 30px;
+    font-size: 13px;
 
 }
-.center{
+#center{
     text-align: center;
     font-size: larger;
+    background-color: black;
+    width: 1302px;
 }
 a{
     text-decoration: none;
     color: white;
 } 
-.center{
-    background-color: black;
-}
 h1{
-    /* font-size: larger; */
     color: white;
     font-size: 60px;
 }
@@ -40,6 +40,74 @@ p{
 p a{
     color: blue;
 }
-.para {
+.first {
     font-size: 30px;
+}
+#second div{
+/* text-align: center; */
+font-size: larger;
+background-color: lightgray;
+}
+h2{
+    font-size: 55px;
+}
+.second{
+    color: black;
+    font-size: 30px;
+}
+
+.third{
+    font-size: 20px;
+}
+#third div{text-align: center;
+    background-color: black;
+
+}
+.img{
+    background-color: black;
+}
+.img h3{
+    color: white;
+    justify-content: center;
+    font-size: 40px;
+}
+.image{
+    width: 800px;
+}
+.color{
+    color: blue;
+}
+p{
+    font-size: 20px;
+}
+.fourth{
+    color: red;
+}
+.fifth{
+    font-size: 30px;
+}
+.seventh h3{
+font-size: 30px;
+}
+.sixth{
+    width: 600px;
+    height: 400px;
+    /* background-color: aqua; */
+    text-align: center;
+    margin: 10px;
+}
+
+.eight p{
+    font-size: 10px;
+    background-color: orangered;
+}
+.tenth{
+    margin: 10px;
+    background-image: url(./images/beyonce_promo__c8bt5lllfl2e_large.jpg)  ;
+    width: 650px;
+    height: 600px;
+    justify-content:center;
+}
+.maindivlower{
+display: flex;
 }
